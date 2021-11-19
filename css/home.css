@@ -1,5 +1,19 @@
 #contenedorPrincipal{
     padding: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+
+.card{
+    width: 20rem;    
+    height: auto;       
+    overflow: hidden;     
+    text-align: justify;
+    margin: 20px;
+    float: left;
 }
 
 #intro{
