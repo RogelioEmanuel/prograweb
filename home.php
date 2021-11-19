@@ -141,35 +141,8 @@
             </div>
         </div>
     </div>
-    <footer>
-        <div class="row">
-            <div class="col-md-3">
-                <h3>Contáctanos</h3>
-                <h5>Redes Sociales</h5>
-                <p>                    
-                </p>
-                <h5>Email</h5>
-                <h6>vibraniumblog@contactme.com</h6>
-            </div>
-            <div class="col-md-6">
-                <h3>Colaboradores</h3>
-            </div>
-            <div class="col-md-3">
-                <h3>Newsletter</h3>
-                <p align="justify">Unete a nosotros para obtener las últimas novedades.</p>
-                <div class="input-group mb-4">
-                    <div class="input-group-prepend">
-                        <span class="input-group-text fa fa-paper-plane" id="basic-addon1"></span>
-                    </div>
-                    <input type="text" class="form-control" aria-describedby="basic-addon1">
-                </div>
-                <p><u>Términos y condiciones</u></p>
-            </div>
-        </div>
-        <hr>
-        <h5>2021 Vibranium Blog <i class="fa fa-registered"></i></h5>
-
-    </footer>
+    <!--FOOTER-->
+    <?php include("./templates/footer.php")?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
