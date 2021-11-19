@@ -1,9 +1,14 @@
 header, footer{
+<<<<<<< HEAD
     background-color: #4b608a;
+=======
+    background-color: #9D5C0D;
+>>>>>>> arturo
 }
 
 
 .bg-prim{
+<<<<<<< HEAD
     background-color: #4b608a;
     color: white;
 }
@@ -19,6 +24,24 @@ header, footer{
 }
 body{
     background-color: #e6eeff;
+=======
+    background-color: #9D5C0D;
+    color: white;
+}
+.bg-second{
+    background-color: #F7D08A;
+    color: #E5890A;
+}
+
+.card-second{
+    background-color: #F7D08A;
+    color: #E5890A;
+    border-color: #9D5C0D;
+}
+
+body{
+    background-color: #F7D08A;
+>>>>>>> arturo
 }
 
 footer {
@@ -42,4 +65,8 @@ footer {
 .responsive-iframe {
     width: 100%;
     height: auto;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> arturo
